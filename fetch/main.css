@@ -1,0 +1,30 @@
+#new_product{
+    width: 200px;
+    border: 2px solid grey;
+    padding: 2rem;
+    border-radius: 20px;
+}
+
+#new_product #myImage{
+    width: 200px;
+}
+
+#new_product div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* p, */
+h1,
+h2,
+h4,
+h3{
+    margin: 0;
+    font-size: 20px;
+}
+
+h1{
+    margin-top: 1rem;
+    text-align: center;
+}
